@@ -13,19 +13,74 @@
 
     <itunes:author>God Mode</itunes:author>
     <itunes:explicit>false</itunes:explicit>
-    <itunes:image href="https://raw.githubusercontent.com/abobusina/music/main/prew.jpg"/>
     
     <item>
       <title>EPISODE 1: THE LONG DARK</title>
       <description>294 Hours of silence.</description>
+      <pubDate>Mon, 15 Jan 2015 12:00:00 GMT</pubDate>
+      
+      <enclosure url="https://raw.githubusercontent.com/abobusina/music/main/podcast_294h.mp3" type="audio/mpeg" length="123456789"/>
+      
+      <itunes:duration>1058400</itunes:duration>
+      <guid isPermaLink="false">ganid_01</guid>
+    </item>
+        <item>
+      <title>TEST                            5                                      :</title>
+      <enclosure url="https://raw.githubusercontent.com/abobusina/music/main/glitch_700h.mp4" type="video/mp4" length="123456789"/>
+      <itunes:duration>1058400</itunes:duration>
+      <guid>ganid_006</guid>
+      <pubDate>Mon, 15 Jan 2026 12:05:00 GMT</pubDate>
+    </item>
+    
+    <item>
+      <title>TEST                            6</title>
+      <enclosure url="https://raw.githubusercontent.com/abobusina/music/main/glitch_phantom_32k100.mp4" type="video/mp4" length="123456789"/>
+      <itunes:duration>1058400</itunes:duration>
+      <guid>ganid_007</guid>
+      <pubDate>Mon, 15 Jan 2026 12:06:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>et  o next  </title>
+      <description>294 Hours of silence.</description>
       <pubDate>Mon, 15 Jan 2026 12:00:00 GMT</pubDate>
       
-      <!-- ССЫЛКА НА ТВОЙ MP3 (Убедись, что она прямая!) -->
-      <enclosure url="https://raw.githubusercontent.com/abobusina/music/main/podcast_294h.mp3" type="audio/mpeg" length="5000000"/>
+      <enclosure url="https://raw.githubusercontent.com/abobusina/music/main/PREMIERE_GLITCH_294H.mp4" type="audio/mpeg" length="123456789"/>
       
-      <!-- ДЛИТЕЛЬНОСТЬ -->
       <itunes:duration>1058400</itunes:duration>
-      <guid isPermaLink="false">unique_id_001</guid>
+      <guid isPermaLink="false">gani412_01</guid>
     </item>
+        <item>
+      <title>245E          ST                            5                                      :</title>
+      <enclosure url="https://raw.githubusercontent.com/abobusina/music/main/glitch_245h.ts" type="video/mp4" length="123456789"/>
+      <itunes:duration>1058400</itunes:duration>
+      <guid>ganid_146</guid>
+      <pubDate>Mon, 15 Jan 2026 12:06:00 GMT</pubDate>
+    </item>
+    
+    <item>
+      <title>outputST            6</title>
+      <enclosure url="https://raw.githubusercontent.com/abobusina/music/main/output.mkv" type="video/mp4" length="123456789"/>
+      <itunes:duration>1058400</itunes:duration>
+      <guid>ganid_337</guid>
+      <pubDate>Mon, 15 Jan 2017 12:06:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>n              t</title>
+      <description>test                        obspayload.</description>
+      <pubDate>Mon, 15 Jan 2016 12:50:00 GMT</pubDate>
+      
+      <enclosure url="https://raw.githubusercontent.com/abobusina/music/main/obs_payload.flv" type="audio/mpeg" length="123456789"/>
+      
+      <itunes:duration>1058400</itunes:duration>
+      <guid isPermaLink="false">ganid_0111</guid>
+    </item>
+        <item>
+      <title>gl_t        e    l_ts</title>
+      <enclosure url="https://raw.githubusercontent.com/abobusina/music/main/glitch_teleport.ts" type="video/mp4" length="123456789"/>
+      <itunes:duration>1058400</itunes:duration>
+      <guid>ganid_052</guid>
+      <pubDate>Mon, 15 Jan 2026 12:05:00 GMT</pubDate>
+    </item>
+
   </channel>
 </rss>
