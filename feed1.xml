@@ -1,0 +1,11 @@
+<item>
+    <title>Название вашего подкаста или трека</title>
+    <description>Краткое описание того, о чем этот выпуск</description>
+    <pubDate>Sun, 18 Jan 2026 19:00:00 +0300</pubDate>
+    <enclosure 
+        url="https://raw.githubusercontent.com/abobusina/music/main/podcast_294h.mp3" 
+        length="12345678" 
+        type="audio/mpeg" 
+    />
+    <guid>https://raw.githubusercontent.com/abobusina/music/main/podcast_294h.mp3</guid>
+</item>
