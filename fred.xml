@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Lalalaikabalalaika</title>
+    <description>nt</description>
+    <link>https://github.com/abobusina/music</link>
+    <language>ru</language>
+    
+    <itunes:owner>
+      <itunes:name>GodMode</itunes:name>
+      <itunes:email>01273424406e@gmail.com</itunes:email>
+    </itunes:owner>
+
+    <itunes:author>God Mode</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://raw.githubusercontent.com/abobusina/music/main/nt.png"/>
+    
+    <item>
+      <title>EPISODE 1: THE LONG DARK</title>
+      <description>294 Hours of silence.</description>
+      <pubDate>Mon, 15 Jan 2026 12:00:00 GMT</pubDate>
+      
+      <!-- ССЫЛКА НА ТВОЙ MP3 (Убедись, что она прямая!) -->
+      <enclosure url="https://raw.githubusercontent.com/abobusina/music/main/podcast_294h.mp3" type="audio/mpeg" length="5000000"/>
+      
+      <!-- ДЛИТЕЛЬНОСТЬ -->
+      <itunes:duration>1058400</itunes:duration>
+      <guid isPermaLink="false">unique_id_001</guid>
+    </item>
+  </channel>
+</rss>
