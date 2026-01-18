@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+  
+    <title>GLITCH LABS</title>
+    <description>nt</description>
+    <link>https://github.com/abobusina/music</link>
+    <language>ru</language>
+    
+    <itunes:owner>
+      <itunes:name>GodMode</itunes:name>
+      <itunes:email>01273424406e@gmail.com</itunes:email>
+    </itunes:owner>
+
+    <itunes:author>God Mode</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>TEST1:AUDIO M4A</title>
+      <enclosure url="https://raw.githubusercontent.com/abobusina/music/main/rss_audio_294h.m4a" type="audio/mp4" length="1234567"/>
+      <itunes:duration>1058400</itunes:duration>
+      <guid>test_001</guid>
+      <pubDate>Mon, 15 Jan 2026 12:00:00 GMT</pubDate>
+    </item>
+
+    <!-- ЭПИЗОД 2: ВИДЕО 360p -->
+    <item>
+      <title>TEST 2: VIDEO 360p</title>
+      <enclosure url="https://raw.githubusercontent.com/abobusina/music/main/rss_video_360_294h.mp4" type="video/mp4" length="1234567"/>
+      <itunes:duration>1058400</itunes:duration>
+      <guid>test_002</guid>
+      <pubDate>Mon, 15 Jan 2026 12:01:00 GMT</pubDate>
+    </item>
+
+    <!-- ЭПИЗОД 3: ВИДЕО 1x1 -->
+    <item>
+      <title>TEST 3: VIDEO 1x1</title>
+      <enclosure url="https://raw.githubusercontent.com/abobusina/music/main/rss_video_1x1_294h.mp4" type="video/mp4" length="1234567"/>
+      <itunes:duration>1058400</itunes:duration>
+      <guid>test_003</guid>
+      <pubDate>Mon, 15 Jan 2026 12:02:00 GMT</pubDate>
+    </item>
+    
+    <item>
+    <title>TEST 4:</title>
+      <enclosure url="https://raw.githubusercontent.com/abobusina/music/main/glitch_jackal_32k.mp4" type="audio/mp4" length="1234567"/>
+      <itunes:duration>1058400</itunes:duration>
+      <guid>test_004</guid>
+      <pubDate>Mon, 15 Jan 2026 12:03:00 GMT</pubDate>
+    </item>
+
+    <!-- ЭПИЗОД 2: ВИДЕО 360p -->
+    <item>
+      <title>TEST 5:</title>
+      <enclosure url="https://raw.githubusercontent.com/abobusina/music/main/glitch_audio_patched.m4a" type="video/mp4" length="1234567"/>
+      <itunes:duration>1058400</itunes:duration>
+      <guid>test_005</guid>
+      <pubDate>Mon, 15 Jan 2026 12:04:00 GMT</pubDate>
+    </item>
+
+    <!-- ЭПИЗОД 3: ВИДЕО 1x1 -->
+    <item>
+      <title>TEST 6                                      :</title>
+      <enclosure url="https://raw.githubusercontent.com/abobusina/music/main/glitch_700h.mp4" type="video/mp4" length="1234567"/>
+      <itunes:duration>1058400</itunes:duration>
+      <guid>test_006</guid>
+      <pubDate>Mon, 15 Jan 2026 12:05:00 GMT</pubDate>
+    </item>
+    
+    <item>
+      <title>TEST 6                                      :</title>
+      <enclosure url="https://raw.githubusercontent.com/abobusina/music/main/glitch_phantom_32k100.mp4" type="video/mp4" length="1234567"/>
+      <itunes:duration>1058400</itunes:duration>
+      <guid>test_007</guid>
+      <pubDate>Mon, 15 Jan 2026 12:06:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
