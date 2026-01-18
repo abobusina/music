@@ -13,6 +13,7 @@
 
     <itunes:author>God Mode</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://raw.githubusercontent.com/abobusina/music/main/prew.jpg"/>
     
     <item>
       <title>EPISODE 1: THE LONG DARK</title>
@@ -84,3 +85,4 @@
 
   </channel>
 </rss>
+
