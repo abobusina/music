@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+  
+    <title>акак</title>
+    <description>nt</description>
+    <link>https://github.com/abobusina/music</link>
+    <language>ru</language>
+    
+    <itunes:owner>
+      <itunes:name>GodMode</itunes:name>
+      <itunes:email>01273424406e@gmail.com</itunes:email>
+    </itunes:owner>
+
+    <itunes:author>God Mode</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>TEST 6                                      :</title>
+      <enclosure url="https://raw.githubusercontent.com/abobusina/music/main/base.m4a" type="audio/mp4" length="1234567"/>
+      <itunes:duration>999999999</itunes:duration>
+      <guid>tostert_006</guid>
+      <pubDate>Mon, 15 Jan 2026 12:05:00 GMT</pubDate>
+    </item>
+    
+    <item>
+      <title>TEST 6                                      :</title>
+      <enclosure url="https://raw.githubusercontent.com/abobusina/music/main/base_video_1x1.mp4" type="video/mp4" length="1234567"/>
+      <itunes:duration>1058400</itunes:duration>
+      <guid>tedsaasdt_007</guid>
+      <pubDate>Mon, 15 Jan 2026 12:06:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
