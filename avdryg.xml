@@ -14,6 +14,8 @@
 
     <itunes:author>God Mode</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://raw.githubusercontent.com/abobusina/music/main/prew.png"/>
+    
     <item>
       <title>TEST 6                                      :</title>
       <enclosure url="https://raw.githubusercontent.com/abobusina/music/main/base.m4a" type="audio/mp4" length="1234567"/>
@@ -30,4 +32,5 @@
       <pubDate>Mon, 15 Jan 2026 12:06:00 GMT</pubDate>
     </item>
   </channel>
+
 </rss>
