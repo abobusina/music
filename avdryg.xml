@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-  
     <title>акак</title>
     <description>nt</description>
     <link>https://github.com/abobusina/music</link>
@@ -14,7 +13,7 @@
 
     <itunes:author>God Mode</itunes:author>
     <itunes:explicit>false</itunes:explicit>
-    <itunes:image href="https://raw.githubusercontent.com/abobusina/music/main/prew.png"/>
+    <itunes:image href="https://raw.githubusercontent.com/abobusina/music/main/parew.jpg"/>
     
     <item>
       <title>TEST 6                                      :</title>
@@ -34,3 +33,4 @@
   </channel>
 
 </rss>
+
